@@ -1,0 +1,4 @@
+touch - create new file
+mkdir -p -create entire folder path
+rm - deleting files and folders
+mv - move and rename files
