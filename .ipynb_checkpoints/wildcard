@@ -1,0 +1,3 @@
+ *- matches amything ,regardless of length
+? -matches  anything , but just for one place
+[]- matches  just one place , but allows you specific options
