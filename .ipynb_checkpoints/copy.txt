@@ -1,0 +1,7 @@
+cp - copying and pasting
+cp<what want to copy>....<destination>
+mv - moving and renaming  files
+locate -i - locate but case insesitive way
+locate -s - locate database
+updatedb - update database
+sudo - gain superuser previledges
