@@ -1,0 +1,6 @@
+lspci<shows all the devices currently connected to the pci (peripheral component interconnect)bus>
+lspci <the command shows more if its address is with option -s,accompanied by the option -v>
+lspci -s address -k <verify which kernel module is in use>
+lsusb <list USB information>
+lsusb -v -d id info <displays more detailed output>
+lsusb -t <shows the current USB device mappings as a hierarchical tree>
